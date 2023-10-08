@@ -13,7 +13,7 @@ A work in progess but I would like to turn this into a full UI library for Proce
       align="center" 
       alt="all ui"   
       width="600" 
-      src=""
+      src="https://github.com/yahirRendon/neumorphic-ui/blob/main/neumorphic_ui_processing/data/all-ui.png"
     />
 </p>
 
@@ -30,7 +30,7 @@ A work in progess but I would like to turn this into a full UI library for Proce
       align="center" 
       alt="round buttons"   
       width="400" 
-      src=""
+      src="https://github.com/yahirRendon/neumorphic-ui/blob/main/neumorphic_ui_processing/data/g-neu-ui-round.gif"
     />
 </p>
 <p align="center">
@@ -38,7 +38,7 @@ A work in progess but I would like to turn this into a full UI library for Proce
       align="center" 
       alt="square buttons"   
       width="400" 
-      src=""
+      src="https://github.com/yahirRendon/neumorphic-ui/blob/main/neumorphic_ui_processing/data/g-neu-ui-square.gif"
     />
 </p>
 <p align="center">
@@ -46,7 +46,7 @@ A work in progess but I would like to turn this into a full UI library for Proce
       align="center" 
       alt="dials"   
       width="400" 
-      src=""
+      src="https://github.com/yahirRendon/neumorphic-ui/blob/main/neumorphic_ui_processing/data/g-neu-ui-dial.gif"
     />
 </p>
 
